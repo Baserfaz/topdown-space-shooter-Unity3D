@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="744.09448819"
+   height="1052.3622047"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.5 r10040"
+   sodipodi:docname="graphs_01.svg">
+  <defs
+     id="defs4">
+    <marker
+       inkscape:stockid="EmptyTriangleOutL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="EmptyTriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path4141"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;fill:#FFFFFF;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8) translate(-6,0)" />
+    </marker>
+    <marker
+       inkscape:stockid="TriangleOutL"
+       orient="auto"
+       refY="0.0"
+       refX="0.0"
+       id="TriangleOutL"
+       style="overflow:visible">
+      <path
+         id="path4123"
+         d="M 5.77,0.0 L -2.88,5.0 L -2.88,-5.0 L 5.77,0.0 z "
+         style="fill-rule:evenodd;stroke:#000000;stroke-width:1.0pt"
+         transform="scale(0.8)" />
+    </marker>
+    <filter
+       inkscape:label="Apparition"
+       x="0"
+       y="0"
+       width="1"
+       height="1"
+       inkscape:menu="Blurs"
+       inkscape:menu-tooltip="Edges are partly feathered out"
+       color-interpolation-filters="sRGB"
+       id="filter3811">
+      <feMorphology
+         radius="4"
+         in="SourceGraphic"
+         result="result0"
+         id="feMorphology3813" />
+      <feGaussianBlur
+         in="result0"
+         stdDeviation="8"
+         result="result91"
+         id="feGaussianBlur3815" />
+      <feComposite
+         operator="in"
+         in="SourceGraphic"
+         in2="result91"
+         id="feComposite3817" />
+    </filter>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.4"
+     inkscape:cx="474.64808"
+     inkscape:cy="674.411"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:bbox-paths="true"
+     inkscape:bbox-nodes="true"
+     inkscape:snap-bbox-edge-midpoints="true"
+     inkscape:snap-bbox-midpoints="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     showguides="true"
+     inkscape:guide-bbox="true" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       sodipodi:nodetypes="cccccccccc"
+       inkscape:connector-curvature="0"
+       id="path3843"
+       d="m 554.54484,483.89188 0,24.95691 -52.12438,30 -52.12437,30 -60,-16.23924 20,-56.23922 -20,-56.23921 60,-16.23923 52.12437,29.99999 z"
+       style="fill:#000000;fill-opacity:0.25837319;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="C:\Users\Baserfaz\Documents\Unity Projects\ideariihi\Assets\graphics\plane_02_shadow.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <g
+       transform="matrix(0,1,-1,0,645.86222,-76.121567)"
+       inkscape:export-ydpi="500"
+       inkscape:export-xdpi="500"
+       inkscape:export-filename="C:\Users\Baserfaz\Documents\Unity Projects\ideariihi\Assets\graphics\plane_02.png"
+       id="g3870">
+      <path
+         sodipodi:nodetypes="cccccccccc"
+         inkscape:connector-curvature="0"
+         id="path3872"
+         d="m 336.37059,212.03167 24.9569,0 30,52.12438 30,52.12437 -16.23923,60 -56.23922,-20 -56.23922,20 -16.23923,-60 30,-52.12437 z"
+         style="fill:#af125a;fill-opacity:1;fill-rule:nonzero;stroke:#352d39;stroke-width:5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:#000000;fill-opacity:0.1866029;fill-rule:nonzero;stroke:none"
+         d="m 362.42597,253.21061 7.73066,0 18.5856,32.29211 18.5856,32.29208 -10.06054,37.1712 -34.84132,-12.3904 z"
+         id="path3874"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccccc" />
+      <path
+         sodipodi:nodetypes="ccccccc"
+         inkscape:connector-curvature="0"
+         id="path3876"
+         d="m 334.42597,253.21061 -7.73066,0 -18.5856,32.29211 -18.5856,32.29208 10.06054,37.1712 34.84132,-12.3904 z"
+         style="fill:#000000;fill-opacity:0.1866029;fill-rule:nonzero;stroke:none" />
+    </g>
+    <g
+       id="g3904">
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="rect3887"
+         d="m 57.410754,9.088167 32.89213,42.270513 -65.78427,0 z"
+         style="fill:#8dd336;fill-opacity:1;fill-rule:nonzero;stroke:#3a3a3a;stroke-width:5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         style="fill:#ffffff;fill-opacity:0.21164018;fill-rule:nonzero;stroke:none"
+         d="m 57.416334,13.156247 27.77753,35.702433 -27.82418,0.0029 z"
+         id="path3890"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g3916"
+       inkscape:export-filename="C:\Users\Baserfaz\Documents\Unity Projects\ideariihi\Assets\graphics\cursor_02.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500">
+      <path
+         style="fill:#686868;fill-opacity:1;fill-rule:nonzero;stroke:#3a3a3a;stroke-width:5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 56.696468,72.302453 32.89213,42.270517 -65.78427,0 z"
+         id="path3910"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3912"
+         d="m 56.702048,76.370533 27.77753,35.702437 -27.82418,0.003 z"
+         style="fill:#ffffff;fill-opacity:0.21164018;fill-rule:nonzero;stroke:none" />
+    </g>
+    <g
+       id="g3867"
+       inkscape:export-filename="C:\Users\Baserfaz\Documents\Unity Projects\ideariihi\Assets\graphics\gem_01.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="rect3003"
+         d="m 259.46429,37.005038 33.75,54.608649 -33.75,54.608653 -33.75,-54.608653 z"
+         style="fill:#b1ede8;fill-opacity:1;fill-rule:nonzero;stroke:#352d39;stroke-width:5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3774"
+         d="m 259.46429,41.272477 -0.003,50.341212 30.88896,0 z"
+         style="fill:#000000;fill-opacity:0.14814815;fill-rule:nonzero;stroke:none" />
+      <path
+         style="fill:#000000;fill-opacity:0.14814815;fill-rule:nonzero;stroke:none"
+         d="m 259.46129,141.9549 0.003,-50.341211 -30.88896,0 z"
+         id="path3779"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g3872"
+       inkscape:export-filename="C:\Users\Baserfaz\Documents\Unity Projects\ideariihi\Assets\graphics\gem_02.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500">
+      <path
+         style="fill:#ede7b1;fill-opacity:1;fill-rule:nonzero;stroke:#352d39;stroke-width:5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 350.89286,37.719324 33.75,54.608649 -33.75,54.608657 -33.75,-54.608657 z"
+         id="path3795"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#000000;fill-opacity:0.14814812;fill-rule:nonzero;stroke:none"
+         d="m 350.89286,41.986763 -0.003,50.341212 30.88896,0 z"
+         id="path3797"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3799"
+         d="m 350.88986,142.66919 0.003,-50.341215 -30.88896,0 z"
+         style="fill:#000000;fill-opacity:0.14814812;fill-rule:nonzero;stroke:none" />
+    </g>
+    <g
+       id="g3877"
+       inkscape:export-filename="C:\Users\Baserfaz\Documents\Unity Projects\ideariihi\Assets\graphics\gem_03.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500">
+      <path
+         sodipodi:nodetypes="ccccc"
+         inkscape:connector-curvature="0"
+         id="path3801"
+         d="m 437.67857,41.647895 33.75,54.608649 -33.75,54.608656 -33.75,-54.608656 z"
+         style="fill:#457b9d;fill-opacity:1;fill-rule:nonzero;stroke:#352d39;stroke-width:5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3803"
+         d="m 437.67857,45.915334 -0.003,50.341212 30.88896,0 z"
+         style="fill:#000000;fill-opacity:0.14814812;fill-rule:nonzero;stroke:none" />
+      <path
+         style="fill:#000000;fill-opacity:0.14814812;fill-rule:nonzero;stroke:none"
+         d="m 437.67557,146.59776 0.003,-50.341214 -30.88896,0 z"
+         id="path3805"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+    </g>
+    <g
+       id="g3882"
+       inkscape:export-filename="C:\Users\Baserfaz\Documents\Unity Projects\ideariihi\Assets\graphics\gem_04.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500">
+      <path
+         style="fill:#f1faee;fill-opacity:1;fill-rule:nonzero;stroke:#352d39;stroke-width:5;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+         d="m 536.16844,43.6682 33.75,54.608649 -33.75,54.608661 -33.75,-54.608661 z"
+         id="path3807"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="ccccc" />
+      <path
+         style="fill:#000000;fill-opacity:0.14814812;fill-rule:nonzero;stroke:none"
+         d="m 536.16844,47.935639 -0.003,50.341212 30.88896,0 z"
+         id="path3809"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="cccc" />
+      <path
+         sodipodi:nodetypes="cccc"
+         inkscape:connector-curvature="0"
+         id="path3811"
+         d="m 536.16544,148.61807 0.003,-50.341219 -30.88896,0 z"
+         style="fill:#000000;fill-opacity:0.14814812;fill-rule:nonzero;stroke:none" />
+    </g>
+    <path
+       sodipodi:nodetypes="ccccccccc"
+       inkscape:connector-curvature="0"
+       id="path3885"
+       d="m 530.97341,697.67759 0,24.9569 -72.12438,30 -32.12436,30 -40,-36.23923 0,-72.47844 40,-36.23923 32.12436,30 z"
+       style="fill:#000000;fill-opacity:0.25837319;fill-rule:nonzero;stroke:none"
+       inkscape:export-filename="C:\Users\Baserfaz\Documents\Unity Projects\ideariihi\Assets\graphics\plane_01_shadow.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <g
+       id="g3892"
+       inkscape:export-filename="C:\Users\Baserfaz\Documents\Unity Projects\ideariihi\Assets\graphics\plane_01.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500"
+       transform="matrix(0,1,-1,0,423.00508,156.73557)">
+      <g
+         transform="translate(-100,-34.285714)"
+         id="g3836">
+        <path
+           style="fill:#07a0c3;fill-opacity:1;fill-rule:nonzero;stroke:#352d39;stroke-width:5;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           d="m 196.37059,250.6031 24.9569,0 30,72.12438 30,32.12437 -36.23923,40 -72.47844,0 -36.23923,-40 30,-32.12437 z"
+           id="rect3815"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccc" />
+        <path
+           style="fill:#000000;fill-opacity:0.13227515;fill-rule:nonzero;stroke:none"
+           d="m 220.00036,288.41159 0,87.91748 22.07461,0 22.09364,-24.37919 -18.2844,-19.57954 -18.28439,-43.95875 -7.59946,0 z"
+           id="path3820"
+           inkscape:connector-curvature="0" />
+        <path
+           inkscape:connector-curvature="0"
+           id="path3825"
+           d="m 198.00036,288.41159 0,87.91748 -22.07461,0 -22.09364,-24.37919 18.2844,-19.57954 18.28439,-43.95875 7.59946,0 z"
+           style="fill:#000000;fill-opacity:0.13227515;fill-rule:nonzero;stroke:none" />
+      </g>
+    </g>
+    <path
+       style="fill:none;stroke:#c39898;stroke-width:2;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none;marker-start:none;marker-end:url(#EmptyTriangleOutL)"
+       d="m 145.59068,442.72838 c 13.58482,21.03974 6.21754,49.95847 -14.91378,62.8898 -21.50267,13.15855 -50.443167,6.0629 -63.535407,-15.4453 -13.16516,-21.62797 -6.03307,-50.68937 15.59311,-63.82699 16.69176,-10.14002 38.548827,-8.59922 53.667247,3.75848"
+       id="path3027"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Baserfaz\Documents\Unity Projects\ideariihi\Assets\graphics\reload_white.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none;stroke-width:10;marker-end:none"
+       d="m 190.83443,458.49399 c -19.0341,32.96803 -7.73515,75.13628 25.23287,94.17038 32.96803,19.0341 75.10922,7.71953 94.14332,-25.2485 14.55447,-25.20909 11.35624,-55.78095 -5.67936,-77.28807 l -4.46875,7.74011 c 13.26846,18.75476 15.29666,44.25541 3.05752,65.45421 -16.76578,29.03919 -53.90416,38.99039 -82.94335,22.2246 -29.03919,-16.76578 -38.99039,-53.90416 -22.22461,-82.94335 12.09266,-20.94509 34.78621,-31.93432 57.39238,-30.15652 l 4.5,-7.79423 c -26.90955,-3.65543 -54.59363,8.87146 -69.01002,33.84137 z"
+       id="path4608"
+       inkscape:connector-curvature="0"
+       inkscape:export-filename="C:\Users\Baserfaz\Documents\Unity Projects\ideariihi\Assets\graphics\reload.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <path
+       style="fill:#000000;fill-opacity:1;stroke:none"
+       d="m 280.18534,441.09929 -33.90336,-2.03498 15.18933,-26.30869 z"
+       id="rect4794"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cccc"
+       inkscape:export-filename="C:\Users\Baserfaz\Documents\Unity Projects\ideariihi\Assets\graphics\reload.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+    <g
+       id="g3913"
+       inkscape:export-filename="C:\Users\Baserfaz\Documents\Unity Projects\ideariihi\Assets\graphics\ice_icon.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500">
+      <path
+         inkscape:connector-curvature="0"
+         id="path3831"
+         d="m 1271.6217,49.672586 c -52.1464,0 -94.4062,42.29114 -94.4062,94.437494 0,52.14637 42.2598,94.40625 94.4062,94.40625 52.1464,0 94.4062,-42.25988 94.4062,-94.40625 0,-52.146354 -42.2598,-94.437494 -94.4062,-94.437494 z m 0,10.375 c 46.428,0 84.0625,37.63453 84.0625,84.062494 0,46.42797 -37.6345,84.0625 -84.0625,84.0625 -46.428,0 -84.0625,-37.63453 -84.0625,-84.0625 0,-46.427964 37.6345,-84.062494 84.0625,-84.062494 z"
+         style="fill:#30ecff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <g
+         style="fill:#30ecff;fill-opacity:1"
+         id="g3850">
+        <path
+           style="fill:#30ecff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 1271.622,77.171905 c 4.0678,0 7.3426,3.3072 7.3426,7.415248 l 0,2.454093 8.3072,0.613524 8.3072,0.613523 0,5.597849 -16.6144,5.597849 0,89.261039 16.6144,5.59785 0,5.59785 -8.3072,0.61352 -8.3072,0.61352 0,2.4541 c 0,4.10805 -3.2748,7.41525 -7.3426,7.41525 -4.0678,0 -7.3426,-3.3072 -7.3426,-7.41525 l 0,-2.4541 -8.3072,-0.61352 -8.3072,-0.61352 0,-5.59785 16.6144,-5.59785 0,-89.261039 -16.6144,-5.597849 0,-5.597849 8.3072,-0.613524 8.3072,-0.613523 0,-2.454093 c 0,-4.108048 3.2748,-7.415248 7.3426,-7.415248 z"
+           id="rect3042"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccssscccccccccccc" />
+        <path
+           sodipodi:nodetypes="ccccccccccccssscccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path3045"
+           d="m 1338.5446,144.09452 c 0,4.06779 -3.3072,7.34258 -7.4152,7.34258 l -2.4541,0 -0.6135,8.30721 -0.6136,8.30721 -5.5978,0 -5.5979,-16.61442 -89.261,0 -5.5979,16.61442 -5.5978,0 -0.6136,-8.30721 -0.6135,-8.30721 -2.4541,0 c -4.108,0 -7.4152,-3.27479 -7.4152,-7.34258 0,-4.06779 3.3072,-7.34258 7.4152,-7.34258 l 2.4541,0 0.6135,-8.30721 0.6136,-8.30721 5.5978,0 5.5979,16.61442 89.261,0 5.5979,-16.61442 5.5978,0 0.6136,8.30721 0.6135,8.30721 2.4541,0 c 4.108,0 7.4152,3.27479 7.4152,7.34258 z"
+           style="fill:#30ecff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           sodipodi:nodetypes="ccccccccccccssscccccccccccc"
+           inkscape:connector-curvature="0"
+           id="path3047"
+           d="m 1299.5322,112.20251 c 1.6965,1.93851 1.683,5.07515 -0.031,7.03285 l -1.0235,1.1695 3.2087,4.25118 3.2088,4.25117 -2.3347,2.66766 -9.2636,-5.24995 -37.2265,42.53737 4.5945,10.58526 -2.3347,2.66766 -3.7203,-3.66642 -3.7204,-3.66644 -1.0235,1.1695 c -1.7132,1.9577 -4.4583,1.97314 -6.1548,0.0346 -1.6965,-1.93852 -1.6829,-5.07516 0.031,-7.03286 l 1.0235,-1.16949 -3.2087,-4.25118 -3.2087,-4.25119 2.3346,-2.66765 9.2637,5.24995 37.2265,-42.53737 -4.5946,-10.58527 2.3346,-2.66766 3.7205,3.66644 3.7204,3.66643 1.0234,-1.1695 c 1.7133,-1.95769 4.4583,-1.97314 6.1548,-0.0346 z"
+           style="fill:#30ecff;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+        <path
+           style="fill:#30ecff;fill-opacity:1;fill-rule:nonzero;stroke:none"
+           d="m 1299.5323,175.98645 c -1.6965,1.9385 -4.4416,1.92303 -6.1548,-0.0346 l -1.0235,-1.16951 -3.7204,3.66645 -3.7204,3.6664 -2.3346,-2.66764 4.5944,-10.58528 -37.2264,-42.53735 -9.2636,5.24993 -2.3347,-2.66764 3.2087,-4.2512 3.2087,-4.25116 -1.0235,-1.16951 c -1.7133,-1.95767 -1.7268,-5.09435 -0.031,-7.03286 1.6965,-1.93851 4.4415,-1.92303 6.1547,0.0346 l 1.0235,1.16951 3.7204,-3.66645 3.7204,-3.66641 2.3347,2.66765 -4.5945,10.58528 37.2264,42.53735 9.2636,-5.24992 2.3347,2.66763 -3.2087,4.25121 -3.2087,4.25116 1.0234,1.16951 c 1.7133,1.95766 1.7269,5.09434 0.031,7.03285 z"
+           id="path3049"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="ccccccccccccssscccccccccccc" />
+      </g>
+    </g>
+    <g
+       id="g3827"
+       inkscape:export-filename="C:\Users\Baserfaz\Documents\Unity Projects\ideariihi\Assets\graphics\bullet.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500"
+       transform="translate(115.12255,3.6939897)"
+       style="fill:#b6b6b6;fill-opacity:0.25882353">
+      <path
+         transform="matrix(0.8875,0,0,0.8875,8.9821512,-16.037828)"
+         d="m 638.57143,349.50504 c 0,15.77956 -12.79187,28.57142 -28.57143,28.57142 -15.77956,0 -28.57143,-12.79186 -28.57143,-28.57142 0,-15.77957 12.79187,-28.57143 28.57143,-28.57143 15.77956,0 28.57143,12.79186 28.57143,28.57143 z"
+         sodipodi:ry="28.571428"
+         sodipodi:rx="28.571428"
+         sodipodi:cy="349.50504"
+         sodipodi:cx="610"
+         id="path3038"
+         style="fill:#b6b6b6;fill-opacity:0.25882353;fill-rule:nonzero;stroke:none"
+         sodipodi:type="arc" />
+      <path
+         sodipodi:type="arc"
+         style="fill:#b6b6b6;fill-opacity:0.25882353;fill-rule:nonzero;stroke:none"
+         id="path3821"
+         sodipodi:cx="610"
+         sodipodi:cy="349.50504"
+         sodipodi:rx="28.571428"
+         sodipodi:ry="28.571428"
+         d="m 638.57143,349.50504 c 0,15.77956 -12.79187,28.57142 -28.57143,28.57142 -15.77956,0 -28.57143,-12.79186 -28.57143,-28.57142 0,-15.77957 12.79187,-28.57143 28.57143,-28.57143 15.77956,0 28.57143,12.79186 28.57143,28.57143 z"
+         transform="matrix(0.58321068,0,0,0.58321068,198.64976,94.006807)" />
+    </g>
+    <g
+       id="g3921"
+       inkscape:export-filename="C:\Users\Baserfaz\Documents\Unity Projects\ideariihi\Assets\graphics\fire_icon.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500">
+      <path
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 1012.0179,150.49536 c 0.4266,32.82852 27.1527,59.31762 60.0824,59.31762 32.9298,0 59.656,-26.4891 60.0826,-59.31762 0,0 1.0003,-15.87406 -5.6764,-26.22441 -11.5862,-14.30471 -3.7402,-28.949874 -4.7316,-27.202043 -0.8083,1.425133 -12.2783,16.106293 -5.6907,31.421203 3.2866,8.6545 -0.076,17.86103 -0.9736,15.09516 -1.7303,-5.33253 -6.9815,-18.12703 -11.3535,-22.51773 0.7614,2.06648 3.0189,10.74318 0.1295,15.30149 -1.7894,2.82268 -3.2489,4.24614 -5.2881,3.61393 -8.792,-2.72574 -10.8191,-20.55645 -9.9866,-25.74549 0.889,-12.30614 -11.375,-32.093502 -19.9246,-37.989677 -6.208,-4.091275 -8.8344,-3.430917 -8.8344,-3.430917 20.2094,26.466679 -8.061,45.783024 -10.4448,69.053754 -0.8982,8.76922 -12.4527,-11.61929 -13.7899,-26.56135 -1.2455,-13.92019 1.3769,-23.894185 1.3769,-23.894185 0,0 -11.3584,10.298495 -15.0206,16.880085 -3.2428,5.82784 -6.3617,12.99407 -7.8619,20.0231 -2.4604,11.5277 -2.0947,22.17708 -2.0947,22.17708 z"
+         id="path3040"
+         inkscape:connector-curvature="0"
+         sodipodi:nodetypes="csccscscsscccsscssc" />
+      <path
+         style="fill:#ff0000;fill-opacity:1;fill-rule:nonzero;stroke:none"
+         d="m 1072.1174,46.873388 c -52.1464,0 -94.4062,42.29114 -94.4062,94.437502 0,52.14637 42.2598,94.40625 94.4062,94.40625 52.1464,0 94.4062,-42.25988 94.4062,-94.40625 0,-52.146362 -42.2598,-94.437502 -94.4062,-94.437502 z m 0,10.375 c 46.428,0 84.0625,37.63453 84.0625,84.062502 0,46.42797 -37.6345,84.0625 -84.0625,84.0625 -46.428,0 -84.0625,-37.63453 -84.0625,-84.0625 0,-46.427972 37.6345,-84.062502 84.0625,-84.062502 z"
+         id="path3836"
+         inkscape:connector-curvature="0" />
+    </g>
+    <g
+       id="g3925"
+       inkscape:export-filename="C:\Users\Baserfaz\Documents\Unity Projects\ideariihi\Assets\graphics\lightning_icon.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500">
+      <path
+         sodipodi:nodetypes="cccccccc"
+         inkscape:connector-curvature="0"
+         id="rect3032"
+         d="m 863.22878,69.163606 36.00669,0 -28.17915,48.064254 31.31016,-0.32042 -66.5341,88.43826 27.3964,-81.70926 -31.31017,0.32042 z"
+         style="fill:#ffef00;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path3838"
+         d="m 867.14256,42.832778 c -52.1464,0 -94.40624,42.29114 -94.40624,94.437502 0,52.14637 42.25984,94.40625 94.40624,94.40625 52.1464,0 94.4062,-42.25988 94.4062,-94.40625 0,-52.146362 -42.2598,-94.437502 -94.4062,-94.437502 z m 0,10.375 c 46.428,0 84.0625,37.63453 84.0625,84.062502 0,46.42797 -37.6345,84.0625 -84.0625,84.0625 -46.428,0 -84.06254,-37.63453 -84.06254,-84.0625 0,-46.427972 37.63454,-84.062502 84.06254,-84.062502 z"
+         style="fill:#ffef00;fill-opacity:1;fill-rule:nonzero;stroke:none" />
+    </g>
+    <path
+       transform="matrix(0.79875,0,0,0.79875,177.52792,109.38902)"
+       d="m 638.57143,349.50504 a 28.571428,28.571428 0 1 1 -57.14286,0 28.571428,28.571428 0 1 1 57.14286,0 z"
+       sodipodi:ry="28.571428"
+       sodipodi:rx="28.571428"
+       sodipodi:cy="349.50504"
+       sodipodi:cx="610"
+       id="path3942"
+       style="fill:#000000;fill-opacity:0.25882353;fill-rule:nonzero;stroke:none"
+       sodipodi:type="arc"
+       inkscape:export-filename="C:\Users\Baserfaz\Documents\Unity Projects\ideariihi\Assets\graphics\bullet_shadow.png"
+       inkscape:export-xdpi="500"
+       inkscape:export-ydpi="500" />
+  </g>
+</svg>
